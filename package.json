@@ -1,0 +1,23 @@
+{
+  "name": "fizzbuzz-js",
+  "version": "1.0.0",
+  "description": "fizzbuzz in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marythought/fizzbuzz-js.git"
+  },
+  "author": "Mary Dickson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marythought/fizzbuzz-js/issues"
+  },
+  "homepage": "https://github.com/marythought/fizzbuzz-js#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
